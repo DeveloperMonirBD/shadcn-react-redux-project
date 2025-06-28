@@ -16,7 +16,15 @@ const initialState: InitialState = {
             dueDate: '2025-11',
             isCompleted: false,
             priority: 'High'
-        }
+        },
+        {
+            id: 'dafgagagahahgadafa',
+            title: 'Init github repository',
+            description: 'Create stage branch',
+            dueDate: '2025-11',
+            isCompleted: false,
+            priority: 'Medium'
+        },
     ],
     filter: "all"
 };
